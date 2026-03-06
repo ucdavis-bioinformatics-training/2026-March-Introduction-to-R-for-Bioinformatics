@@ -28,13 +28,13 @@ navigation:
   - title: Introduction to R Day 3
     url: R/Intro2R_day3
 
-  - title: Challenge solutions
-    url: R/challenge_solutions
+  #- title: Challenge solutions
+  #  url: R/challenge_solutions
 
   - heading: ETC
   # - title: Closing thoughts
   #  url: base/closing
   - title: Github page
-    url: https://github.com/ucdavis-bioinformatics-training/2025-November-Introduction-to-R-for-Bioinformatics
+    url: https://github.com/ucdavis-bioinformatics-training/2026-March-Introduction-to-R-for-Bioinformatics
   - title: Biocore website
     url: http://bioinformatics.ucdavis.edu
